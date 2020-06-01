@@ -1,0 +1,19 @@
+Projeto realizado por:
+Igor Liscio
+Eduardo Rombi
+Enrico Gutierres
+
+
+O banco se encontra no arquivo "BANCO-web" e o sistema se encontra no diretório "Prj-AutoLOG".
+
+
+O sistema se inicia no arquivo "Login.php". Já existirão dados de teste inseridos para facilitar a utilização do sistema.
+
+Login: bruno@teste.com
+senha: 123
+
+
+
+Resumo de funcionalidade do sistema:
+
+O Sistema tem como intuito principal facilitar a contratação de caminhoneiros autônomos para serviços pontuais para empresas de grande, médio ou pequeno porte. O sistema será o responsável por centralizar todas as informações e por fazer todo o controle de contratação, a fim de proteger ambos os lados.
