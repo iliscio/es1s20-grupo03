@@ -1,17 +1,17 @@
 <h1><b>NewRelic<b/><h1/>
 
-<h2><b>Afinal o que é o NewRelic ?<b/><h2/>
+<b>Afinal o que é o NewRelic ?<b/>
 
 O New Relic é um software no modelo de “as a service”, que atua no monitoramento de diversos ambientes digitais. 
 Na prática, escaneia os ambientes para diagnosticar problemas de desempenho, facilitando tanto a vida dos programadores como dos gestores.
 
-<h2><b> E por quê utilizar NewRelic ?<b/><h2/>
+<b> E por quê utilizar NewRelic ?<b/>
 
 Com o NewRelic programadores podem economizar horas para entender oque está afetando uma lentidão, um erro ou até mesmo um problema no 
 banco de dados, pois o software irá analisar seu logs e mostrará onde estão as possíveis falhas e como pode consertá-las.
 Com esse monitoramento em tempo real, pode-se ter uma real noção do que está acontecendo em seu software.
  
- <h2><b>Vantagens:<b/><h2/> 
+<b>Vantagens:<b/> 
 <ol>
 <li>Maior agilidade na identificação de problemas.<li/>
 <li>Com essa agilidade geramos valor para nosso cliente, dessa maneira consequentemente o cliente tambem nos gerará valor.<li/>
@@ -19,7 +19,7 @@ Com esse monitoramento em tempo real, pode-se ter uma real noção do que está 
 ser em específica e mostrar o tempo de execução de uma unica linha.<li/>
 <ol/>
 
-<h2><b>NewRelic em nosso projeto<b/><h2/>
+<b>NewRelic em nosso projeto<b/>
 
 New Relic seria extremamente útil em nosso projeto TruckExpress, pois com a análise dos logs gerados a partir do nosso sistema 
 teríamos uma visão real e clean de nosso sistema. Com o acompanhamento do NewRelic podemos ver algumas métricas bem importantes em 
