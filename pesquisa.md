@@ -13,13 +13,13 @@ Com esse monitoramento em tempo real, pode-se ter uma real noção do que está 
  
 <b>Vantagens:<b/> 
 <ol>
-<li>Maior agilidade na identificação de problemas.<li/>
-<li>Com essa agilidade geramos valor para nosso cliente, dessa maneira consequentemente o cliente tambem nos gerará valor.<li/>
+<li>Maior agilidade na identificação de problemas.</li>
+<li>Com essa agilidade geramos valor para nosso cliente, dessa maneira consequentemente o cliente tambem nos gerará valor.</li>
 <li>A escalabilidade que possuia a ferramenta, ela gera uma visão real e bastante abrangente do ambiente, como pode também 
-ser em específica e mostrar o tempo de execução de uma unica linha.<li/>
-<ol/>
+ser em específica e mostrar o tempo de execução de uma unica linha.</li>
+<ol>
 
-<b>NewRelic em nosso projeto<b/>
+<b>NewRelic em nosso projeto<b>
 
 New Relic seria extremamente útil em nosso projeto TruckExpress, pois com a análise dos logs gerados a partir do nosso sistema 
 teríamos uma visão real e clean de nosso sistema. Com o acompanhamento do NewRelic podemos ver algumas métricas bem importantes em 
