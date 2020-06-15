@@ -1,4 +1,4 @@
-<h1><b>NewRelic<b><h1>
+<h1><b>NewRelic<b></h1>
 
 <b>Afinal o que é o NewRelic ?<b/>
 
