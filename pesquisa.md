@@ -20,11 +20,10 @@ Com esse monitoramento em tempo real, pode-se ter uma real noção do que está 
 
 <b>NewRelic em nosso projeto</b>
 
-New Relic seria extremamente útil em nosso projeto, pois com a análise dos logs gerados a partir do nosso sistema 
-teríamos uma visão real e "clean" como resultado. Com o acompanhamento do NewRelic podemos ver algumas métricas bem importantes em 
-qualquer sistema, como por exemplo o tempo necessário para um client realizar o Login, ou até mesmo mais dados maisespecífico, como por exemplo
-o tempo que o banco de dados leva para realizar o select para o login no sistema.
-Seria útil também o mapeamento geral dos serviços utilizados no sistema, pois com isso saberemos se determinado serviço está impactando 
+New Relic seria extremamente útil em nosso projeto, pois, com a análise dos logs gerados a partir do nosso sistema,  teríamos uma visão real e "clean" como resultado. Com o acompanhamento do NewRelic podemos ver métricas bem importantes em 
+qualquer sistema, como por exemplo o tempo necessário para um cliente realizar o Login, ou até mesmo dados mais específico, como por exemplo o tempo que o banco de dados leva para realizar o select para o login no sistema.
+
+Nos seria útil também o mapeamento geral dos serviços utilizados no sistema, pois com isso saberemos se determinado serviço está impactando 
 em outro serviço ou até mesmo causando problemas em todo o TruckExpress. 
 Após todas esses argumentos favoráveis ao uso de NewRelic em nosso sistema, podemos deixar ainda mais evidente que com essas análises 
 gerariamos valor aos nossos cliente. E sabe-se que quando geramos valor ao nosso cliente, seja entregando uma funcionalidade nova,
