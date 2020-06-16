@@ -5,7 +5,7 @@
 O New Relic é um software no modelo de “as a service”, que atua no monitoramento de diversos ambientes digitais. 
 Na prática, escaneia os ambientes para diagnosticar problemas de desempenho, facilitando tanto a vida dos programadores como a dos gestores.
 
-<b> Pr quê utilizar NewRelic ?</b>
+<b> Por quê utilizar NewRelic ?</b>
 
 Com o NewRelic programadores podem economizar horas para entender oque está afetando uma lentidão, um erro ou até mesmo um problema no 
 banco de dados, pois o software irá analisar seus logs e mostrará onde estão as possíveis falhas e como pode consertá-las.
